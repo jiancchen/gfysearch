@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GfyCat Search</string>
+    <string name="view_format">views: %d</string>
+</resources>
